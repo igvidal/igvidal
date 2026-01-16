@@ -4,7 +4,7 @@
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Pos+Javita+:v;Ingeniero+en+Informática;Fullstack+Developer;Especialista+en+Sistemas+POS)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Pos+Javita+:v;Ingeniero+en+Informática;Fullstack+Developer)](https://git.io/typing-svg)
 
 ---
 
